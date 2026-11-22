@@ -1,61 +1,77 @@
 # StudySprint: Spec
 
-**Rank in portfolio:** #6 of 15 (easiest → hardest) · **Difficulty:** Easy
+**Exam countdowns and a revision timetable that plans itself** · #14 of 33 in the build order · Easy · Revenue potential: Medium · Habits, Health & Learning · Source: ChatGPT + Perplexity
 
 ## One-liner
 
-Exam countdowns and a revision timetable that plans itself.
+Enter your exams, subjects and topics, mark how confident you feel, and StudySprint builds a realistic revision timetable that gives more time to weak topics and closer exams. Includes a focus timer and countdowns.
 
 ## Problem / audience
 
-- **Who it's for:** GCSE, A-level and university students.
-- **The problem it solves:** Students know when exams are but not how to split revision time across subjects.
+- **Who it's for:** GCSE, A-level, college and university students; adults taking professional exams.
+- **The problem it solves:** Students know when their exams are, but not how to split their time across subjects and topics.
+- **Example:** A student enters five exams, marks two weak topics, and gets a daily plan from January to June.
 
 ## MVP features (ship with only these)
 
-1. Add exams (subject, date)
-2. Auto-generated revision timetable (spread sessions, weight by closeness)
+1. Add exams, subjects and topics with confidence levels
+2. Auto-generated timetable, weighted by how close and how weak
 3. Focus timer (sprint sessions)
-4. Tick off sessions, see progress per subject
+4. Tick off sessions; progress per subject
 5. Exam countdowns
 
 ## Not in MVP
 
-- Premium templates and timetable tweaks
+- Custom plans and templates
 - Focus stats
-- Student themes
+- Next-term re-engagement
 
 ## Monetisation
 
 | Model | Detail |
 |---|---|
-| Free | Timetable + timer, with ads |
-| Paid | £1.99/month or £9.99/year: advanced timetables, stats, themes |
+| Free | Timetable and timer, with ads |
+| Premium | £3.99/month or £19.99/year: unlimited subjects, custom plans, focus stats, templates |
 | Ads | Never during a focus session |
 
-Prices are starting points from the portfolio brief; test before committing.
+Prices are starting points; test before committing.
 
-## Platform & stack
+## Retention: The Progression Loop
 
-- **Platform:** Expo (web + iOS + Android).
-- **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob). See the portfolio roadmap.
-- **Data:** Device only.
+| Stage | Design |
+|---|---|
+| Cue | Today's planned sessions |
+| Tiny win | Complete a sprint |
+| Progress | Subject progress; weak topics shrinking |
+| Share | Progress summaries |
+| Next step | After exams: set up next term or next year |
+| Cadence | Daily in revision season |
 
-## Growth engine hooks
+Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
+never wiped, at most one notification a day by default.
 
-- **Shareable output:** Timetable and "X days until exams" cards.
-- **Content pillars:** Revision techniques; Exam season countdowns; Study motivation; Timetable templates
+## Platform & data
 
-## Notes
+- **Platform:** Expo app.
+- **Data:** On the device only.
+- **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
 
-Very seasonal: launch well before exam season (Jan–May). Timetable generation is the main real logic.
+## Growth engine
+
+- **Content pillars:** Revision techniques; Exam countdowns; Study motivation
+- **Shareable output:** Progress summaries
+
+## Risks
+
+Very seasonal: launch before January. Users leaving after exams is expected.
 
 ## Launch checklist
 
-- [ ] Name checked on App Store / Play Store / trademark search
+- [ ] Name checked on the App Store, Play Store and a trademark search
 - [ ] MVP features done and tested
-- [ ] Privacy policy + terms
+- [ ] Progression Loop wired (cue, tiny win, progress, milestone, next step)
+- [ ] Privacy policy and terms
 - [ ] Landing page
-- [ ] Analytics wired
+- [ ] Analytics wired (D1/D7/D30 retention)
 - [ ] Payments / ads wired
 - [ ] Added to growth-engine as an app config
