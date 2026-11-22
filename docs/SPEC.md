@@ -1,6 +1,6 @@
 # StudySprint: Spec
 
-**Exam countdowns and a revision timetable that plans itself** · #25 of 32 · Wave 3: Seasonal and episodic · Used: Daily in exam season · Easy · Revenue potential: Medium · Habits, Health & Learning · Source: ChatGPT + Perplexity
+**Exam countdowns and a revision timetable that plans itself** · #25 of 31 · Wave 3: Seasonal and episodic · Used: Daily in exam season · Easy · Revenue potential: Medium · Habits, Health & Learning · Source: ChatGPT + Perplexity
 
 ## One-liner
 
