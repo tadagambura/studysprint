@@ -2,7 +2,7 @@
 
 **Exam countdowns and a revision timetable that plans itself**
 
-> #14 of 33 in the build order · Easy · Revenue potential: Medium · Habits, Health & Learning
+> #26 of 33 · Wave 3: Seasonal and episodic · Used: Daily in exam season · Easy · Revenue potential: Medium · Habits, Health & Learning
 
 ## What it is
 
@@ -55,6 +55,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | Progress summaries |
 | Next step | After exams: set up next term or next year |
 | Cadence | Daily in revision season |
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
 
 ## Watch-outs
 
