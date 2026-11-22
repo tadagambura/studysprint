@@ -1,6 +1,6 @@
 # StudySprint: Spec
 
-**Exam countdowns and a revision timetable that plans itself** · #14 of 33 in the build order · Easy · Revenue potential: Medium · Habits, Health & Learning · Source: ChatGPT + Perplexity
+**Exam countdowns and a revision timetable that plans itself** · #26 of 33 · Wave 3: Seasonal and episodic · Used: Daily in exam season · Easy · Revenue potential: Medium · Habits, Health & Learning · Source: ChatGPT + Perplexity
 
 ## One-liner
 
@@ -49,6 +49,11 @@ Prices are starting points; test before committing.
 
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does. (Portfolio rule: plain code first, code does the maths,
+cheapest model, shared budget cap, premium-gated.)
 
 ## Platform & data
 
