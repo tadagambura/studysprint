@@ -58,11 +58,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | After exams: set up next term or next year |
 | Cadence | Daily in revision season |
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Energetic sprint start and a session-complete burst
+- Sprint complete: the stickman bursts through a paper wall
+- Break time: he flops onto a beanbag
+- Weak topic improved: the brain lifts a dumbbell
+- Exam day: he suits up like a superhero
+- Skipped session: the timetable gives a gentle side-eye, then quietly reschedules itself
 
 **Line we don't cross:** Completely calm during a focus session.
 
