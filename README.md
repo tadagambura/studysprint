@@ -56,6 +56,14 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | After exams: set up next term or next year |
 | Cadence | Daily in revision season |
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- Energetic sprint start and a session-complete burst
+
+**Line we don't cross:** Completely calm during a focus session.
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
