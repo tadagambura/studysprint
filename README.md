@@ -42,6 +42,8 @@ GCSE, A-level, college and university students; adults taking professional exams
 | Premium | £3.99/month or £19.99/year: unlimited subjects, custom plans, focus stats, templates |
 | Ads | Never during a focus session |
 
+**Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
+
 ## Why people come back
 
 Built on **The Progression Loop**, the portfolio's shared retention framework
