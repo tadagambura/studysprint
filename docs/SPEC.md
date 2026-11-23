@@ -1,6 +1,6 @@
 # StudySprint: Spec
 
-**Exam countdowns and a revision timetable that plans itself** · #14 of 16 · Wave 2: Recurring keepers · Used: Daily in exam season · Easy · Revenue potential: Medium · Habits, Health & Learning · Source: ChatGPT + Perplexity
+**Exam countdowns and a revision timetable that plans itself** · #13 of 15 · Wave 2: Recurring keepers · Used: Daily in exam season · Easy · Revenue potential: Medium · Habits, Health & Learning · Source: ChatGPT + Perplexity
 
 ## One-liner
 
