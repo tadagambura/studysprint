@@ -31,7 +31,8 @@ Enter your exams, subjects and topics, mark how confident you feel, and StudySpr
 | Model | Detail |
 |---|---|
 | Free | Timetable and timer, with ads |
-| Premium | £24.99/year (shown first) or £3.49/month: unlimited subjects, custom plans, focus stats, templates |
+| Premium | £34.99/year (shown first) or £3.49/month: unlimited subjects, custom plans, focus stats, templates |
+| KC All Access | £25 once (every Arcade game in every KC app, kept forever) plus £7.99/month or £79.99/year (Premium in every KC app). Needs a free KC account. |
 | Ads | Never during a focus session |
 
 Prices are starting points; test before committing. **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
@@ -54,7 +55,7 @@ never wiped, at most one notification a day by default.
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Sprint complete: the stickman bursts through a paper wall
+- Sprint complete: Kaos bursts through a paper wall
 - Break time: he flops onto a beanbag
 - Weak topic improved: the brain lifts a dumbbell
 - Exam day: he suits up like a superhero
